@@ -1,4 +1,4 @@
-title{
+h1{
     font-family: 'copperplate', 'Times New Roman';
     color:whitesmoke;
 }
@@ -7,7 +7,7 @@ nav{
     font-family: 'Courier New', Courier, monospace;
     height: 100px;
 }
-
+    
 nav audio{
     float: right;
     margin-right: 50px;
@@ -80,33 +80,13 @@ article p{
     border-bottom: 1px solid #222;
     margin-bottom: 20px;
 }
-.button1{
-    color:whitesmoke;
+button{
+    color: whitesmoke;
     background-color: red;
     padding: 6px 20px;
     border-radius: 4px;
-
 }
-.button1:hover{
-    color: red;
+button:hover{
+    color:red;
     background-color: whitesmoke;
 }
-
-/*#article1{
-    background-image: url("images/nothing_else_matters.jpeg");
-    background-size: 95%;
-    
-}
-#article2{
-    background-image: url("images/puppets.jpeg");
-    background-size: 95%;
-}
-#article3{
-    background-image: url("images/the_trooper.jpeg");
-    background-size: 95%;
-}
-#article4{
-    background-image: url("images/du_hast.jpeg");
-    background-size: 95%;
-}
-*/
