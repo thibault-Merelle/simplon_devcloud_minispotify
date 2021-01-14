@@ -1,25 +1,17 @@
-
+title{
+    font-family: 'copperplate', 'Times New Roman';
+    color:whitesmoke;
+}
 nav{
     background-color: rgba(255,255,255, 0.50);
     font-family: 'Courier New', Courier, monospace;
     height: 100px;
 }
-nav title{
-    font-family: 'copperplate', 'Times New Roman';
-    color:whitesmoke;
-}
-nav ul{
+
+nav audio{
     float: right;
-    list-style: none;
     margin-right: 50px;
-    margin-top: 40px;
-}
-nav ul li{
-    display: inline-block;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: whitesmoke;
-    margin-right: 20px;
+    margin-top: 20px;
 }
 
 body{
